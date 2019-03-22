@@ -1,3 +1,3 @@
 # Class-Notes
-It contains all the class notes for 5th Semester till mide semester exams.
-Later I will be adding complete notes for this semester.
+It contains all the class notes for 5th Semester.
+Now I am in the process of adding 6th sem notes.
